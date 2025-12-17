@@ -32,7 +32,7 @@ bio: My research interests include urban logistics, behavioral mobility, transpo
 interests:
   - Urban Logistics
   - Multimodal transportation
-  - Behavioral mobility
+  - Behavioral modeling
   - Urban freight planning
 # Education to show in About widget
 education:
@@ -68,7 +68,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/cv_GiacomoDC.pdf
+    link: uploads/cv_GiacomoDallaChiara.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
